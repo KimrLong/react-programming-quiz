@@ -23,6 +23,6 @@ class AnswerKey extends Component {
             </div>
         )
     }
-}
+}  /// use min-width: 0 to fit answer list in a container.... used with material ui
 
-export default AnswerKey
+export default AnswerKey;
